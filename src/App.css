@@ -105,3 +105,10 @@ footer {
 footer p {
   margin: 0;
 }
+
+video {
+  margin-top: 1em;
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+}
