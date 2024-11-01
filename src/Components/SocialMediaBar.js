@@ -22,11 +22,11 @@ export default function SocialMediaBar() {
     <Container maxWidth="md" sx={{ mt: 1 }}>
       <Stack direction="row" spacing={1}>
 
-        {/* <a href={tiktok_link} target="_blank" rel="noopener noreferrer">
+        <a href={tiktok_link} target="_blank" rel="noopener noreferrer">
           <div style={{ width: "35px" }}>
             <TikTokIcon />
           </div>
-        </a> */}
+        </a>
 
         <a href={youtube_link} target="_blank" rel="noopener noreferrer">
           <YouTubeIcon fontSize="large" sx={{ color: "#FF0000" }} />
