@@ -10,8 +10,8 @@ const Services = () => {
         "Asphalt Driveways",
         "Concrete Driveways",
         "Paver Driveways",
-        "Stamped Concrete Driveways", // Added service
-        "Gravel Driveways", // Added service
+        "Stamped Concrete Driveways", 
+        "Gravel Driveways", 
       ],
     },
     {
@@ -19,9 +19,37 @@ const Services = () => {
       details: [
         "Basement Waterproofing",
         "Legal Basement Conversions",
-        "Basement Finishing and Remodeling", // Added service
-        "Egress Window Installation", // Added service
-        "Foundation Repair", // Added service that can also apply to basements
+        "Basement Finishing and Remodeling", 
+        "Egress Window Installation", 
+        "Side Entrance",
+        "Foundation Repair",  
+      ],
+    },
+    {
+      service: "Kitchen Renovation",
+      details: [
+        "Custom cabinetry installation",
+        "Countertop installation",
+        "Backsplash installation",
+        "Lighting design and installation",
+        "Flooring installation",
+        "Plumbing and electrical work",
+        "Appliance installation",
+        "Kitchen island construction",
+        "Ventilation installation",
+      ],
+    },
+    {
+      service: "Bathroom Renovation",
+      details: [
+        "Shower and tub installation",
+        "Vanity and countertop installation",
+        "Tile installation",
+        "Plumbing and electrical work",
+        "Lighting design and installation",
+        "Flooring installation",
+        "Toilet installation",
+        "Bathroom remodeling consultation",
       ],
     },
     {
@@ -31,8 +59,8 @@ const Services = () => {
         "Roof Repair",
         "Asphalt Shingle Roofing",
         "Metal Roofing",
-        "Flat Roofing Solutions", // Added service
-        "Roof Inspections", // Added service
+        "Flat Roofing Solutions", 
+        "Roof Inspections", 
       ],
     },
     {
@@ -41,24 +69,26 @@ const Services = () => {
         "Walkways and Pathways",
         "Patios and Decks",
         "Parking Lots and Driveways",
-        "Concrete Slabs for Various Applications", // Added service
-        "Decorative Concrete Finishes", // Added service
+        "Concrete Slabs for Various Applications", 
+        "Decorative Concrete Finishes", 
       ],
     },
     {
       service: "Landscaping and Hardscaping",
       details: [
-        "Garden Design and Installation", // Added service
-        "Retaining Walls", // Added service
-        "Outdoor Lighting", // Added service
-        "Fencing Installation", // Added service
+        "Garden Design and Installation", 
+        "Retaining Walls", 
+        "Outdoor Lighting", 
+        "Fencing Installation", 
       ],
     },
     {
       service: "Additional Services",
       details: [
-        "General Contracting", // Added service
-        "Home Renovations and Additions", // Added service
+        "General Contracting", 
+        "Home Renovations and Additions",
+        "Plumbing",
+        "Flooring & Tiles",
       ],
     },
   ];
