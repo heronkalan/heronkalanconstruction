@@ -10,7 +10,7 @@ function App() {
       <SocialMediaBar />
       
       <header className="App-header">
-      <img src="logo.jpeg" alt="HeronKalan Construction Logo" style={styles.logo} /> {/* Add the logo here */}
+      <img src="logo.png" alt="HeronKalan Construction Logo" style={styles.logo} /> {/* Add the logo here */}
         {/* <h1>HERONKALAN CONSTRUCTION</h1> */}
         <p>Your trusted partner for Driveway and Basement Constructions.</p>
       </header>
