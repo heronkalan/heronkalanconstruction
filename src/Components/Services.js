@@ -53,17 +53,6 @@ const Services = () => {
       ],
     },
     {
-      service: "Roofing Services",
-      details: [
-        "Roof Installation",
-        "Roof Repair",
-        "Asphalt Shingle Roofing",
-        "Metal Roofing",
-        "Flat Roofing Solutions", 
-        "Roof Inspections", 
-      ],
-    },
-    {
       service: "Concrete Paving",
       details: [
         "Walkways and Pathways",
